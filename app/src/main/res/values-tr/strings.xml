@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Setmoji</string>
+    <string name="success_message">Cevap doğru tebrikler</string>
+    <string name="success_title">Sonraki seviyeye geçmek istermisiniz?</string>
+    <string name="positive_button_text">Evet</string>
+    <string name="try_again">Tekrar deneyiniz.</string>
+    <integer-array name="emoList">
+        <item>@drawable/titanic1</item>
+        <item>@drawable/titanic2</item>
+        <item>@drawable/titanic3</item>
+        <item>@drawable/aladdin1</item>
+        <item>@drawable/aladdin2</item>
+        <item>@drawable/aladdin3</item>
+    </integer-array>
+</resources>
